@@ -16,7 +16,7 @@ A responsive travel website built as part of the Teknoppy Junior Web Developer T
 - JavaScript
 
 ## Live Demo
-(Add your deployed URL here)
+https://wanderly-travel-abhinav.netlify.app/
 
 ## Author
 Abhinav B
